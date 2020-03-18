@@ -1,1 +1,2 @@
-#设置退出为1
+# comment what's a  funing trump ?
+#author:yys
